@@ -3,7 +3,7 @@ This Flight System Application is a full-stack project developed as a final assi
 
 
 # Key Features
-User Authentication: New users can sign up for an account, while returning users can log in securely.
+* User Authentication: New users can sign up for an account, while returning users can log in securely.
 
 * Flight Search & Filtering: Filter available flights by price or duration to find the best option.
 
